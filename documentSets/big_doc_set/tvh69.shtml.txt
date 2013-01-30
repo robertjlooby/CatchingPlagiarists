@@ -1,0 +1,66 @@
+
+How To Do Frames On Web Sites
+Dividing a web page into frames is quite simple. Frames 
+organize web pages by dividing them into rows or columns. The 
+basic concept of frames is that each frame is a regular, complete 
+html document. That means more than on one page is viewed in one 
+single screen. This allows the viewers to stay one page other than 
+having to keep on going to new pages. 
+If a person wanted to divide a page into 2 side by side frames, 
+he/she should put one complete html document in the left frame and 
+another complete html document in the right frame. In order to make 
+this happen, making an additional html document is needed. This 
+third html document contains the tags that specify what 
+goes where. That is actually its only function. 
+The two tags used are the and the tags. 
+A tag is a container tag, and a tag is not. For 
+those who don't know what that means, a container tag has an 
+opening and a closing . The tag specifies 
+the html documents and whether the frame should have a border or a 
+scrollbar for each html document. The tag does all the 
+dividing. It specifies a few things regarding how to divide them up. 
+(Note: If using web page providers such as angelfire and geocities, 
+make sure the page that the frames code is going on is set for 
+advanced html.) 
+The most popular way frames are organized is by using two 
+columns. One is simply being used for the menu of the web site, and 
+the other being used as the main page to view a specific page within 
+the web site. The examples used will include how to create frames 
+showing the division of the page into two columns and also showing 
+the division of the page into two rows. 
+First of all, name the three html documents index.html, the 
+page used for dividing it into frames; side1.html, the left column of the 
+page used for the menu; and main.html, the page for viewing a 
+specific page within the web site. Make sure the following html code is 
+used in the index.html page: *FRAMESET cols=100,*”* 
+src=”side1.html”* . The * 
+simply means the space that is left over on the web page. The 100 
+means that the first frame is 100 pixels wide. That code should be 
+used to divide a page into two columns. Be sure to adjust it to the 
+size needed for the web site. 
+Dividing a page into rows uses the same concept; however, the 
+code is slightly different. Use the same three html 
+documents: index.html, side1.html, and main.html. This code should 
+be used in the index.html page: 
+src=”side1.html”* . 
+A person can also decide whether he/she wants the frame to 
+have scrollbars or borders. It should be specified in the tag 
+like this: 
+src=”side1.html” scrolling=”no” border=”false”* 
+src=”main.html” scrolling=”yes” border=”false”*. That code will make 
+the left column not to have scrollbars whereas the main column will 
+have scrollbars. 
+It is possible to divide a page into more than two frames, but 
+they must be specified in the tag, and more html 
+documents will have to be made. For example, 
+rows=”65,*,65”* will divide a page into three rows in which the 
+first and last will be 65 pixels tall, while the middle will be what is left 
+over. 
+Sometimes when too many frames are used, it is confusing to 
+the viewer. Using only a few frames will make viewing a web site 
+easier and more organized. Viewing web pages in frames make 
+visiting it easier and more enjoyable. Looking at nice layouts will keep 
+the visitors coming back. After figuring out how to do frames, 
+everyone will realize how easy it really is. 
+<br><br>
+Words: 627

@@ -1,0 +1,105 @@
+
+REDUCING THE TIME AND EXPENSE CREATING PROPOSALS
+PRESENTED TO:
+Jill Marhefka
+Professor of Business Research, BSAD 400
+.
+Tracy E. Baker
+October 11th, 1999
+TABLE OF CONTENTS
+EXECUTIVE SUMMARY 1
+BACK GROUND INFORMATION 2
+PROBLEM AND OBJECTIVES 3
+RESEARCH METHODOLOGY 4
+ESTIMATES OF COST AND SCHEDULE 6
+QUALIFICATION OF REASEACHER 8
+APPENDIX 9
+EXECUTIVE SUMMARY
+AUTOMATING TO MEET THE NEEDS OF XYZ CONSTRUCTION COMPANY
+Proposals are extremely important tools in construction, sales and marketing efforts but they also pose some serious challenges. These are some of the specific problems our company is facing:
+¨ Inefficient delivery of information where and when it’s needed
+¨ Lack of tools to help construction sales people to work productively
+¨ Difficulty in completing and delivering quality proposals quickly
+¨ Construction sales people are experiencing too much desk time and not enough face time as they wrestle with the challenge of preparing proactive proposals
+¨ Inconsistent looking proposals that contain conflicting and sometimes incorrect information
+The main goal of this project is to research a specific need expressed by members of the Proposal Development Group and Sales Department, that is the need for an industry specific Proposal Software Program. As outlined in the proposal, this is to be accomplished through significant interaction between the researchers, Information Management department and experts in the Proposal Development Group and Sales Department. This type of cooperative agreement is seen as fundamental to the success of all projects. 
+BACKGROUND INFORMATION
+THE POSITIVE IMPACT OF A PROPOSAL WRITER PROGRAM ON XYZ COMPANY
+XYZ Company has generated 1,000 proposals (of which 30 percent are less complex; 70 percent more complex) during FY 1999. Members of the XYZ’s Proposal Group have spent approximately 46,000 hours in proposal writing! This however, does not include revisions made due to addendums to R.F.P.s. Below is a summary of cost incurred by the XYZ Company through FY 1999. It should be noted that XYZ Company has generated hard copies of every proposal written for not only the clientele but also our Sales Executives, in order to keep them abreast of changes. This was to ensure that the Sales Executive could respond to all questions as concisely and efficiently as possible. 
+Proposals Written Proposal Addendums 
+Time to write one proposal 16 hours—less complex 60 hours—complex Approximately 1 hour less complex 12 hours complex
+Overhead charge rate for a proposal writer's time $45.00/hr $45.00/hr
+Number of proposals / addendums written each year 300 less complex 700 complex 200— Per 1000 proposals
+Approximate total costs $2,160,000.00+ $391,500.00
+PROBLEM AND OBJECTIVES
+THE POSITIVE IMPACT OF A PROPOSAL WRITER PROGRAM ON XYZ COMPANY
+Problem Statement
+The proposal processes in the construction industry is intensive. Many tasks are highly repetitive, and may require significant F.T.E. (full time equivalent) man-hours to produce. Many jobs require numerous revisions when posed with addendums to the RFP by owners who are uncertain of their wants and needs.
+The Management Problem Is As Stated Below:
+Can we develop a software package that will meet the guidelines of the Proposal Development group and the Sales department?
+Objectives:
+(1.0) To ensure the potential system will function with the data structures used within our system.
+(2.0) To develop a software program which will formulate faster responses to R.F.P.s.
+(3.0) To create a well-designed system which is easy to learn.
+(4.0) To determine if a pricing engine is needed within the data structure.
+(5.0) To asses the need for a sales and marketing database.
+(6.0) To evaluate the need to develop a clientele database.
+(7.0) To investigate the potential of reduction of overall paper usage.
+RESEARCH METHODOLOGY
+THE POSITIVE IMPACT OF A PROPOSAL WRITER PROGRAM ON XYZ COMPANY
+Research Design
+The Information Gathered will be representative of the Information Management group, the Proposal Development group, and the Sales Executives. The Information management group will be surveyed independently from the Proposal Development group and the Sales Executives, however, there will be a set of questions on each of the two surveys that are identical. This will be detailed in the Proposed Data Collection section.
+All information Gathered will be utilized in the evaluation of the potential for the development and or feasibility of development concerning the afore mentioned proposal software.
+Proposed Data Collection Procedures
+To ensure the potential system will function with the data structures used within our system, and to create a well-designed system, which is easy to learn, Information management will be surveyed independently of the Proposal Development group and the Sales Executives.
+To determine if a pricing engine is needed within the data structure, asses the need for a sales and marketing database, and evaluate the need to develop a clientele database, The Proposal Development group and the Sales Executives will be surveyed together yet independently of the Information Management group.
+RESEARCH METHODOLOGY CONTINUED
+THE POSITIVE IMPACT OF A PROPOSAL WRITER PROGRAM ON XYZ COMPANY
+Proposed Data Collection Procedures (continued)
+In order to develop a software program, which will formulate faster responses to R.F.P.s., and investigate the potential to reduce overall paper usage, the three groups will be surveyed together utilizing the same set of questions on both forms.
+Collection of Primary Data
+Primary data will be collected in the form of a questionnaire. These questionnaires will be formulated in such a manner as to receive an independent response from the individuals surveyed. There will be two questionnaires formatted. One for Information management group and one for the Proposal Development group and Sales Executives combined.
+Collection of Secondary Data
+An investigation will be conducted as to the existance of any proposal writing software and the development process used to implement said program. 
+Proposed Analytical Techniques
+Upon completion of the necessary survey process and the collection of the data, an independent team as so agreed upon by the Research staff and the Management staff of the XYZ COMPANY will analyze all information. All Information shall be formatted in an easily interpretive, summarized document.
+ESTIMATES OF COST & SCHEDULE
+THE POSITIVE IMPACT OF A PROPOSAL WRITER PROGRAM ON XYZ COMPANY
+Below is a detailed summary of cost associated with the proposed research project. Also accompanying the detailed cost summary is a projected cost chart for quick reference.
+Survey development and implementation will take three (3) F.T.E.s @ $45.00 hr. for 11.3 hours each. For a total of 33.9 man hours = $1525.50
+Materials associated with creating the surveys will be a fixed price of $500.00. This is an industry standard dollar amount.
+Administrative support includes data collection, recording and tabulation. This will take one (1) F.T.E @ $34.50 hr. for 31 hours. For a total of =1069.50.
+The total cost incurred will be $3,095.00
+Six weeks from the Validation Meeting, XYZ Company’s D.E.C. team will be given a Final Report for review. All information gathered including Primary and Secondary data will be attached to the Final Report. Project status will be given on weekly bases and or as deemed necessary by XYZ Company’s D.E.C. Team.
+Sincerely;
+Tracy E. Baker
+Construction Contracts Manager
+SURVEY, INFORMATION MANAGEMENT
+Is the current system expandable? YES_____ NO_____
+Is the current system DOS or Windows based? DOS_____ Windows______
+Can the current system be integrated to an Intranet format? YES____ NO______
+Have you done software programming? YES_____ NO______
+Are you interested in software programming? YES______ NO______
+Is the current system viewable from the Internet? YES_______ NO______
+Do you use the databases already provided by the XYZ Company?
+YES_____ NO______
+If yes, how often? Several times a Month___ a Week___ a Day___ Not at all___
+If no, Why? _______________________________________________________
+__________________________________________________________________
+___________________________________________________________________
+SURVEY, PROPOSAL DEVELOPMENT / SALES
+Is the current system user friendly? YES_____ NO_____
+Are you comfortable learning new programs? YES_____ NO______
+Would a proposal / sales database be beneficial for your job? YES____ NO______
+Any time in the past 6 months, have you been impacted by lack of information on a client? YES_____ NO______
+Did this result in loss of productive face time with the client? YES____ NO______
+If a proposal database could be updated on the intranet would you use it? 
+YES_______ NO______
+Do you use the databases already provided by the XYZ Company?
+YES_____ NO______
+If yes, how often? Several times a Month___ a Week___ a Day___ Not at all___
+If no, Why? _______________________________________________________
+__________________________________________________________________
+___________________________________________________________________
+<br><br>
+Words: 1371

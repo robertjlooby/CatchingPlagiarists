@@ -1,0 +1,36 @@
+
+Just-in-time production is considered to be on the leading edge of technological advancement. With improvements in the virtually every industry, maintaining an effective production line while minimizing inventory costs is a very feasible option. Just-in-time systems are designed to keep inventory costs at a minimum, unlike the ways of old, with large warehouses loaded with back inventory. With technology allowing instantaneous communication around the world, production lines and stores do not have to wait for days for inventory delivery. It can happen, well, just-in-time. 
+Many companies are on the verge of switching to a just-in-time inventory system, to compliment the millions of companies that have already implemented the system. It is generally recognized that effective implementation of just-in-time will result in a significant reduction of inventories. As a matter of fact, inventory levels are key indicators for measuring just-in-time performance (Harrison).
+The just-in-time philosophy on inventory management is simple:
+- Strive for a level of zero inventories.
+- Produce items at the rate required by the customer.
+- Eliminate all unnecessary lead times.
+- Reduce setup costs to achieve the smallest economical lot size - ideally, a quantity of one.
+- Optimize material flow from suppliers through the production process to the point of sale of the finished product, so that inventories are minimized.
+- Ensure high quality and dependable just-in-time delivery from suppliers.
+- Implement a Total Quality Control (TQC) program, which will minimize scrap, rework and resultant delays in production (Naylor).
+While the just-in-time inventory management philosophy is simple, execution is not.
+In a just-in-time environment, the supplier should deliver raw materials and other purchased items when they are needed. A blanket purchase order or other suitable form of basic agreement should cover the terms and conditions for procurement. Delivery of the item should be direct to the point of use in the manufacturing plant. It is time consuming and not cost-effective for the materials to be handled in one part of a production line before it is moved to the correct location. It is up to the supplier to ensure a smooth flow of material to support production, which is obtained through optimum communication and coordination between the manufacturing plant and the supplier.
+It is integral that there is a working relationship between suppliers and the controller of the manufacturing plant. The supplier should be considered by the manufacturing company as an extension of the plant and should be included in all planning which involves his products. Certain individuals in the production plant should be selected to represent the company on matters pertaining to schedules and delivery quantities (Naylor).
+Several techniques exist for controlling the flow of material from the supplier to the manufacturing company. The specific technique should be selected which would best suit the implementation of the just-in-time concept for the particular item being purchased. Automatic inventory replenishment by the vendor is a technique where the supplier determines the need for required materials based on frequent deliveries to the plant. Depending on the nature of the production process as well as the material involved, this could range from many times a day to a less frequent interval. Visual review of existing inventory by the supplier will determine how much to deliver (Slack).
+The method of inventory control is not foreign to U.S. commerce and industry; visit a supermarket and see how the baker delivers his goods. He replenishes the baked goods based on a visual review of what is on the shelves. The same is true for soda and candy vendor machines. Those using oil to heat their home are certainly familiar with this type of inventory system; the driver comes by the house periodically and fills the tank.
+Implementing just-in-time may result in increased transportation costs due to smaller lot sizes and more frequent deliveries. However, in some industries such as chemicals there are significant trade-offs between the economy of longer lead-time and less flexible rail shipments versus more frequent tanker truckloads. Each of these cases must be examined on its own merits and on a continuing basis to determine the optimum solution (Slack).
+Just-in-time requires flow of material in the exact quantity required and at the exact time; the key word is exact. Regardless of the specific method used to achieve this exact material flow, there must be advance planning to ensure that material is available when needed. Material requirements’ planning (MRP) is the best technique to accomplish this (Naylor).
+MRP provides the basic logic for determining not only future material requirements but also manufacturing capacity requirements. State-of-the-art MRP-II computer systems provide the user with on-line, real-time simulation capabilities to explore a broad horizon of what if? situations. While just-in-time strives for the smallest economical lot sizes, there may be valid reasons for acquiring larger inventories of certain items. 
+MRP with its look ahead capability allows companies to make sound decisions for purchasing, as well as manufacturing resources planning. The latter includes manpower, plant facilities, equipment, and tooling. This powerful technique provides essential information, which helps suppliers plan their production for just-in-time delivery (Harrison).
+The basic steps required to implement a just-in-time production system are as follows:
+- Review segmentation of the inventory by item type; ensure that all items have been properly classified.
+- Ensure that the unit cost is stated for each item
+- Establish the anticipated annual demand quantity for each item.
+- Establish blanket purchase orders, purchasing agreement, or contract for selected items with qualified vendors.
+- Authorize individuals in production to release vendor delivery quantities against blanket purchase orders, purchasing agreement, or contract.
+- Establish inventory policy code for each item based on the method of inventory control and the method of transaction reporting and recording.
+- Review and establish minimum economical order quantities and safety stocks required by just-in-time production.
+- Measure inventory performance to determine effectiveness of just-in-time production and inventory management (Naylor).
+Just-in-time will change our conventional thinking concerning the management of inventories and streamline our methods for inventory control. Proper selection and implementation of these methods will yield substantial benefits by improving customer service, shortening delivery lead times, and significantly reducing inventory investment. It does not, however, eliminate the need for sound inventory planning.
+<br><br><b>Bibliography</b><br><br>
+Slack, Chambers, Harland, Harrison and Johnston, Operations Management, New York: Pitman, 1995 
+Naylor J, Operations Management, New York: Pitman, 1996 
+Harrison A, Just-in-time Manufacturing in Perspective, New York: Prentice Hall, 1992 
+<br><br>
+Words: 1030

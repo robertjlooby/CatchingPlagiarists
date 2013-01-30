@@ -1,0 +1,21 @@
+
+History of the Internet
+The Internet as we know today was not a concept that was quickly enacted when it was first thought up. It was a revolutionary process that was the result of visionary people who painstakingly brought forth the World Wide Web. These individuals saw a promising potential in allowing computers to share information on research and development in scientific and military fields. 
+This is all started in 1962 when the U.S. Defense Advanced Research Projects Agency (DARPA) initiated a research program. They selected J.C.R. Licklider of MIT to head the work and develop it. Later Leonard Kleinrock of UCLA who developed the theory of packet switching, which was used to create the basis of Internet connections. His thesis was titled Communications Networks: Stochastic Flow and Delay. This thesis examined what packet-switching networking could look like. Lawrence Roberts of NIT confirmed Kleinrocks’ theory by connecting a Massachusetts computer with a California computer over dial up telephone lines. This proved that it could be done and when he later joined DARPA in 1966 he developed his plan for ARPANET.
+ARPANET, also known as the Internet “was brought online in 1965 under a contract let by the renamed Advanced Research Projects Agency (ARPA)” (Howe 2). It originally connected UCLA, Stanford Research Institute, UCSB, and the University of Utah. Soon after several other universities connected to ARPANET. 
+In order for ARPANET to communicate via the telephone lines a series of protocols were developed Transmission Control Protocol (TCP) and Internet Protocol (IP) came first then TCP/IP developed from these. These protocols communicated transparently across multiple, linked packet networks.
+The ultimate infrastructure was designed that if “sites were destroyed by nuclear attack, routers would direct traffic around the network via alternate routes. Since this was a initially founded by the government, it was originally limited to research, education, and for government use. In order to work the Internet a person had to learn a complex system. 
+“The Internet matured in the 70’s as a result of the TCP/IP architecture first proposed by Bob Kahn at BBN and further developed by Kahn and Vint Cerf at Stanford and others throughout the 70’s.”(Howe 3). 
+It is interesting to note that at this time at Bell Labs the Unix to Unix Copy Protocol (UUCP) was invented. Newsgroups and discussions were exchanged through this means although it did not use TCP/IP. Usenet is not considered a part of the Internet but it did help those that used the Internet. It played a big part on creating the Internet network and its community. 
+“In 1986, the U.S. National Science Foundation (NSF) initiated the development of the NSFNET which today, provides a major backbone communication service for the Internet.”(ISOC 1). “In Europe, major international backbones such as NORDUNET and others provide connectivity to over one hundred thousand computers on a large number of networks. Commercial network providers in the U.S. and Europe are beginning to offer Internet backbone and access support on a competitive basis to any interested parties.”(ISOC 2). 
+In the early 90’s commercial use on the Internet was allowed, before it was only allowed to serve the goals of research and education. Because of this lift commercial network use expanded beyond what anyone thought it could be. 
+As with all growth there are pains to be dealt with. Users want quicker speed connections and wireless connectivity. The demand is heralding a response for these needs and it seems there will be no limit what to ask for. 
+<br><br><b>Bibliography</b><br><br>
+Aboba, Bernard. How the Internet Came to Be. 
+Addison-Wesley, 1993. Bell Laboratories. 22 Oct. 2000 .
+Cerf, Vint. A Brief History of the Internet and Related Networks. 
+ISOC. 22 Oct.2000 
+Howe,Walt. A Brief History of the Internet. 
+22 Oct. 2000 http://www.0.delphi.com/navnet/history.html
+<br><br>
+Words: 580

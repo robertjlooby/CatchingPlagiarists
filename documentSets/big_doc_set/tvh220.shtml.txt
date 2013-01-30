@@ -1,0 +1,17 @@
+
+On the 'Call' menu, click 'Host Meeting'. Name the conference, assign a password, and click to select the appropriate check boxes. On the 'Call' menu, click 'New Call'. Add all of the appropriate people to the meeting call. 
+1) Click the 'Start' button on the taskbar, point to 'Programs', and then click 'NetMeeting'. 
+NOTE: When using Windows 2000, it may be necessary to point to 'Programs', point to 'Accessories', point to 'Communications', and then click 'NetMeeting'. 
+2) On the 'Call' menu, click 'Host Meeting'. 
+3) In the 'Host Meeting' dialog box, type the appropriate information in the 'Meeting Name' and 'Meeting Password' boxes. 
+NOTE: The meeting password is only used if you require security for people calling into the meeting. They must be informed what the password for the meeting is prior to the meeting time. If the host is placing all of the calls to the participants, a password is unnecessary. 
+4) Under 'Meeting Settings' and 'Meeting Tools', click to select the appropriate check boxes, and then click 'OK'. 
+Meeting settings 
+5) For each person to be added to the meeting: 
+a) Click the 'Place Call' button. 
+'Place Call' button 
+b) In the 'Place a Call' dialog box, in the 'To' box, type or click a name, and then click 'Call'. (Each person added to the call will be shown in the list box.) 
+NOTE: As a person is added to the call, a 'Meeting Properties' dialog box will appear on their PC, informing them of the meeting name, and tools or actions that will or will not be accessible to them. The settings will remain active until the host hangs up the call. To review the settings at any time, on the 'Call' menu, click 'Meeting Properties'. 
+http://www.ils.microsoft.com/
+<br><br>
+Words: 290

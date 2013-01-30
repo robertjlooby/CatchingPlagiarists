@@ -1,0 +1,22 @@
+
+Does the humble telephone lines play a major role in shaping the third millennium? Can a mere pair of thin copper wires twisted around each other transmit Internet data reliably and securely at blazing fast speed, making it possible to view high-quality moving images, sound and vast amounts of data on your personal computer screen or television? The answer is yes, as the growing success of DSL (digital subscriber line) technology abundantly demonstrates.
+The capacity of a communications channel depends on its bandwidth and its signal-to-noise ratio. A voice connection through a conventional phone network uses a bandwidth of about 3,000 hertz (Hz): from about 300 Hz to 3,300 Hz. An analog modem operating at 33.6 kilobits per second (kbps) requires a slightly wider bandwidth 3,200 Hz and needs a very good connection, one with a high signal-to-noise ratio. Modems operating at 56 kbps achieve their rates by taking advantage of digital connections that circumvent some sources of noise in transmissions toward the end user.
+But these bit rates are far from the maximum possible on a twisted pair alone. One process that limits bandwidth and signal strength is the steady attenuation of the signal as it travels down the line, with the higher frequencies being affected more severely. Greater capacity is therefore available if the lines are kept short.
+Originally, the Discrete Multitone approach was intended for sending entertainment video over telephone wires. Because such use relies principally on one-way transmission, most of the
+subchannels were devoted to the downstream signal, carrying about 6 Mbps, with about 0.6 Mbps available in the other direction. This asymmetric form of DSL has become known as ADSL, and the signal coding is now a worldwide standard.
+Although the video application has not yet borne fruit, asymmetric transmission fortuitously lends itself to browsing on the World Wide Web. Over the past year ADSL has begun to be widely installed in telephone networks for always-on Internet access, typically operating at several hundreds of kbps or higher over phone wires up to about 5.5 kilometers in length. The beauty of ADSL, unlike the multilevel coding used in HDSL, is that the data can use channels operating above the voice frequency band, so a single phone line can simultaneously
+transmit voice and high-speed data.
+The newest standard of ADSL is G lite which is just for home users, a global standard that limits the data rates to 1.5 Mbps downstream to the consumer and about 0.5 Mbps upstream. By limiting the speed G.lite is able to operate reliably on more than 70 percent of unaltered phone lines and lowers costs and power usage. Home computers containing G.lite-ready circuitry are already being sold. 
+ADSL has a number of advantages over systems that use a cable television network. With ADSL the signal on your line is not shared with other users. Where as cable modems are, which work over a giant network (party line) when someone else is receiving data, someone could be listening in on your data signal. Where as telephone wires, on the other hand, are physically secure.
+The backbone networks for ADSL carry composite signals for a few hundred consumers at 155 Mbps and up. A television channel has an effective throughput of only about 24 Mbps,
+greatly limiting its effectiveness under heavy use by hundreds of cable modems. The ADSL traffic also benefits from a statistical economy of scale--for example, 1,550 people sharing a
+backbone of 155 Mbps will experience better performance than 240 sharing 24 Mbps.
+Although cable networks cover 90 percent of the homes in the U.S., they do not serve many businesses. Telephone networks are ubiquitous. Moreover, for effective use of cable
+modems the cable operator must invest billions to upgrade the cable network with fiber optics and two-way transmission equipment; ADSL, on the other hand, takes advantage of the
+same kind of telephone pairs that Alexander Graham Bell used in the 19th century.
+Web Sites
+http://www.xdslresource.com/xDSLFAQ.shtm
+http://webopedia.internet.com/TERM/x/xDSL.html
+http://www.everythingdsl.com/
+<br><br>
+Words: 658

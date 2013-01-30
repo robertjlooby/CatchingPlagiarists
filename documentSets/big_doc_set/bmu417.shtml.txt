@@ -1,0 +1,89 @@
+
+What Computer Skills Do Employers Expect From Recent College Graduates?
+Philip Davis, Instructional Technology Librarian
+Cornell University
+Ithaca, N.Y.
+Table of Contents
+Cornell University 2
+Cornell Library Conducts Study 2
+Research Methodology 3
+A Review of the Results 3
+Rankings, Groupings, and Correlations 4
+Ranking Computer Skills: 4
+Grouping Computer Skills: 4
+Other Computer Skills 4
+Comments From Employers 5
+Variability of Employment 5
+Communication Skills 5
+Adaptability 6
+What Do These Results Mean? 6
+Why is this research important for librarians? 7
+What Computer Skills Do Employers Expect From Recent College Graduates?
+Philip Davis, Instructional Technology Librarian
+Cornell University
+Ithaca, N.Y.
+The university is responsible for graduating students with the skills necessary to thrive and lead in a rapidly changing technological environment. Meanwhile corporate leaders are putting more emphasis on recruiting individuals with an understanding of computers and information systems. 
+A nationwide survey by the Olsten Corp of 1,481 management systems executives found that computer literacy requirements for all job levels increased dramatically over a three-year period in the early nineties. However, another survey by HR Focus of 20 human resource executives found a lack of computer-literacy skills in recent college graduates. 
+Cornell Library Conducts Study
+Cornell University's Albert R. Mann Library has a formal instruction program that reaches nearly 1,000 participants in over 60 hands-on computer workshops per semester. Workshop topics cover bibliographic research techniques, Internet searching principles, database searching skills, word Processing, Spreadsheets, and information management. Classes are supplemented by several online tutorials. Descriptions of these classes and tutorials are located at http://www.mannlib.cornell.edu/workshops/.
+The purpose of our research was to identify the computer skills employers felt were necessary when recruiting recent Cornell graduates. The results of this study were part of a larger evaluation of computing across the curriculum in the College of Agriculture and Life Sciences. This study was also used as a tool to evaluate our library's instruction program, and provided us with a comparison to a 1990 survey of employers, faculty advisors and graduates in the school of Agricultural Economics. 
+Research Methodology
+Corporations who regularly visit the Cornell campus to recruit graduating students were our focus population. Our questionnaire was designed to gather information on five categories of computer literacy skill: 1)Creating Documents and Multimedia, 2) Working with Computer Programs, 3) Managing Databases, 4) Manipulating Numeric Data, 5) Computer Networks, a five-point scale was used to indicate competency levels. Of the 300 questionnaires mailed, 150 returned with usable responses. 
+A Review of the Results
+Generally employers have a high expectation of computer literacy in recent college graduates (Figure 1). A total of 125 (83.3%) indicated that computer competency skills are either important or  very important in the hiring decision. 
+Within the Documents and Multimedia section, Word Processing (Figure 2) ranked the highest, with 144 (96%0 of employers expecting at least basic word processing skills. The majority of recruiters (97 or 67%) responded not relevant or none to Desktop Publishing Skills (Figure 3), whereas the re was a clustering of 41 respondents (112 or 75%) wanted at least basic Graphics or Presentation Software Skills (Figure 4). Lastly, the majority of employers did not consider Creating Internet Documents (Figure 5) very important, as 105 (70%) considered this skill not relevant, or would be willing to train.
+From the Working With Computer Programs section, employers showed a discrepancy in expecting the ability to install or upgrade software (Figure 6). Whereas, 61 (41%) respondents were seeking basic skills, 46 (31%) respondents indicated that this particular skill was not relevant. Ninety-four (64%) employers were looking for at least basic skills to create or modify programs or macros for individual use (Figure 7). The majority of respondents (67%) indicated that the ability to create commercial software (Figure 8) was not relevant to the job; however, for those who responded favorably, 21 (14%) were expecting either intermediate or advanced skills.
+Skills from the Managing Databases section scored slightly lower, with basic database entry and editing skills (Figure 9) coming out highest in this group-122 (83%) respondents expected at least basic skills.
+Generally Numeric Data skills (and specifically spreadsheet skills ) scored very highly as a group. Even the ability to perform detailed analysis (Figure 10) was expected by 86% of respondents.
+Lastly, employers responded very favorably to Computer Network skills (Figure 11). An overwhelming majority (93%) expected e-mail experience, and 63.3% expected competency with online and Internet searching. The Other category comprised open responses that included network configurations and network software.
+Rankings, Groupings, and Correlations
+Ranking Computer Skills: 
+Figure 12 provides an overview of how all computer literacy skills are ranked with respect to one another. Scores were calculated for each skill weighing responses and correcting for missing data. The maximum score for any skill was 100, given to word processing.
+Grouping Computer Skills: 
+Correlation analysis was performed on the data with the goal of presenting an overview of how computer competency skills are related to one another. The correlation matrix (Figure 13) easily identifies pockets of significant correlation (high correlation indicated by dark cells). Question numbers are indicated along the X and Y axes. Most skills were significantly and positively related to each other.
+Individual skills were highly correlated within each functional group (Figure 13). This was especially so within the Computer Programs (3), Managing Databases (4), and Numeric Data (5) categories, but less so within Creating Documents and Multimedia (2) category.
+The importance of computer skills (question 1), was significantly correlated with most skills (Figure 13), with higher emphasis on Internet Documents (2e), Installing software (3a), Modifying programs or macros (3b) and Writing documentation for computer programs (3e).Word processing (2a) was highly correlated with basic and intermediate spreadsheet competency (5a, 5b, 5c ). Graphics/presentation skills (2c) was also highly correlated with spreadsheet skills (5a-5e). Basic and intermediate computer programming skills (3a, 3b, 3c) were highly correlated with most database management skills (4a-4e), numerical analysis (5e) and mathematical modeling (5f). Lastly, database management skills (4a-4e) were highly correlated with advanced numeric data skills (5e, 5f, 5g), which include statistical analysis, mathematical modeling and geographic information systems (GIS).
+Other Computer Skills
+Many employers used the Other Computer Skills open-ended question to list specific languages, programs or skills (Table 1). Those listing programming skills overwhelmingly mentioned C or C++ as a language. Respondents listing specific operating systems made high reference to UNIX and DOS/Windows platforms. Excluding word-processing and spreadsheet skills (which were analyzed in more detail in other parts of the questionnaire), Computer Aided Design (CAD) skills were listed most frequently.
+Comments From Employers
+The last open question solicited comments. Of the 43 responses, most comments included recruiting preferences and anecdotes. 
+Variability of Employment
+Several of the respondents remarked that the questionnaire was difficult to fill out since they recruit for different positions in various departments: Computer skill expectations vary depending on the department one joins. One recruiter even concluded that computer-skill requirement varies by engineering discipline.
+Many employers agreed that computer literacy is important to all, and that  if a student graduates without any [skills], he/she will have a distinct disadvantage in the workforce. Lacking these skills would not exclude most college graduates from the job market, however, the more skills they exhibit, the more attractive they would be to potential employers.
+Communication Skills
+though this study looked only at computer competency, basic literary skills are the foundation for technical skills. One recruiter remarked that writing skills are extremely vital, even in a technical organization. In consulting organizations, oral presentation skills are vital, even at the most junior levels. Another added that recent college graduates must be able to communicate clearly-both written and verbal [and be able] to think clearly and creatively.
+Problem-Solving Skills
+veral recruiters commented on the importance of basic problem-solving skills. One wrote that it is not as important that a graduate know a lot of programs or know programming as much as it is needed for students to be computer [literate] and grasp concepts that can be applied to many situations across programs.
+Another recruiter would rather hire a logical, mathematically minded candidate who can think their way through applications. Still, one recruiter advised that it is not enough to list the skill on a resume. The candidate must demonstrate that they have used the skill to solve problems. They must be able to apply knowledge and expertise to a problem and then solve it using computer skills.
+Adaptability
+As the tools rapidly change, students today must be quick to learn as well as eager to do so, remarked one respondent. Although tools change, computer skills are transferable. For new employees, some larger companies offer a training program to provide the candidates who may be lacking in computer skills the opportunity to be brought up to speed to function in a department. One respondent even acknowledged that computer skills are criteria used in our career planning system to promote employees.
+What Do These Results Mean?
+Although this study has helped us understand the kinds and proficiencies of computer skills sought by recruiters, we need to speculate further on what the results mean to Cornell.
+This study represents a static picture or snap-shot of what employers are looking for today; it does not predict what employers will be looking for in four years time when our new group of freshman graduate. We were surprised to see that creating documents for the Internet was ranked last out of 23 skills; however, industry experts might predict that this skill will become as important as basic word processing in the next few years.
+This study also assumes that there is a core set of computer skills that each student should possess upon graduation would be a gross oversimplification to conclude that all entry-level positions, from customer service representative to systems analysts, require the same set of computer skills. Although the study did not compare colleges, Geissler and Horridge did note a significant difference at Texas Tech University.
+From the standpoint of a college, however, a minimum required set of computer skills may be appropriate to standardize over the curriculum. A 1995 survey by the American Association of State Colleges indicated that 22% of state colleges and universities require computer literacy of all graduates. The most common solution was to require a survey course covering word processing, spreadsheets, database management principles and introductory Internet navigation.
+Can we test for computer proficiency in the same way that we test for language and math proficiency? Previously published studies have used questionnaires. However there is currently a lack of literature on computer-aided exams.
+Can we assume that students will arrive at the university already with sufficient computer literacy skills? A study of freshman at East Carolina University concluded that library and information skills taught in high school had little effect on students entering college. Another study of 193 undergraduates at East Carolina University indicated that students had studied a wide variety of software in their previous schooling, but had forgotten most of them by their senior year. That study also observed that students tend to overestimate their computer skills. For employers, this can be problematic, since the majority do not give any kind of competency test to job applicants.
+Why is this research important for librarians?
+It is the responsibility of the university to graduate students who have the body of information management skills actively sought by corporate recruiters. As information management professionals, librarians are in a premier position to teach theses skills. While information management skills are taught to some extent by faculty as part of their classes, librarians are in a unique position to construct a curriculum whose purpose is to teach these skills both incrementally, and as part of a comprehensive instruction program.
+<br><br><b>Bibliography</b><br><br>:
+AASCU (1995), On the Bring:Report on the Use of Management of Information Technology at AASCU Institutions, Washington, DC: American Association of State Colleges and universities.
+Arzy, Marsha r. (1992), Analysis of Necessary Computer Skills for Entry-Level Office Workers, masters thesis, Eastern Montana college, (ED360484).
+Baker, Ronald L. (1990), A Comprehensive Integrated Computing curriculum for End-Users, Education and Computing, 6(1-2), pp. 47-53.
+Brown, Bob & Diane Kester (1993), College Students and computers (ED366291).
+Curtis, P. A. & et al. (1986), Measuring comptuer Literacy in colleges of Agriculture: Results, conclusions and Implications, college Station, TX: Texas A&M University, Dept. of Agricultural Economics, (ED286474).
+Geisler, Jayne e. & Patricia Horridge (1993), University Students' Computer Knowledge and Commitment to Learning, Journal of Research on computing in Education, 25(3), pp. 347-365.
+Kanter, Jerry (1993a), Computer Skills are More Critical, But Training Lags, HR Focus, 70(5), p.18.
+Kanter, Jerry (1993b), Training and Testing for Computer Skills Lag, Supervision, 54(12), p. 6.
+Kanter, Jerry (1996), Guidelines for attaining Information Literacy, Information Strategy: The Executives Journal, 12(3), pp. 6-11.
+Kester, D. (1994), Secondary School Library and Informatipn Skills: Are they transferred from high school to college? Reference Librarian, 44, pp. 9-17.
+Monk, David, Philip Davis, Don Peasley, Peter Hillman & Paul Yarbrough (1996), Meeting the Needs of CALS Students for computing Capabilities: Final Report of the Ad Hoc Committee on college of Agriculture and Life Sciences Student Computer Competencies, Ithaica, NY: Cornell University (in process).
+Ochs, Mary &et al. (1991), Assessing the Value of an Information Literacy Program, Ithaca, NY: Cornell University, Albert R. Mann Library (ED340385).
+Rohlf, F.J. & RR Sokal (1969), Statistical Tables, 3rd Edition, New York, NY: WH Freeman.
+Stephens, Derek & Fytton Rowland (1993), Initial IT Training in Departments of Information and Library Studeies in the British Isles: A Survey of Student Views, Education for Information, 11(3), pp. 189-204.
+Thompson, Curt & Bob Smith (1992), Are College Graduates Missing the Corporate Boat, HR Focus, 69(4), p.23/
+Von Holzen, roger Lee & Robert V. Price (1990), Five Year Trends in Computer Students' Attitudes and Skill Levels, (ED333860).
+<br><br><b>Bibliography</b><br><br>
+None
+<br><br>
+Words: 2288

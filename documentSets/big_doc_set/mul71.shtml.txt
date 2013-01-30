@@ -1,0 +1,79 @@
+
+SWOT analysis of Dell Computers
+History:
+The company was founded in 1984 by Michael Dell, now the computer industry's longest-tenured chief executive officer, on a simple concept: that by selling personal computer systems directly to customers, Dell could best understand their needs, and provide the most effective computing solutions to meet those needs. Today, Dell is enhancing and broadening the fundamental competitive advantages of the direct model by increasingly applying the efficiencies of the Internet to its entire business. Company revenue for the last four quarters totaled $19.9 billion.
+Through the direct business model, Dell offers in-person relationships with corporate and institutional customers; telephone and Internet purchasing (the latter now exceeding $18 million per day); customized computer systems; phone and online technical support; and next-day, on-site product service. 
+Dell arranges for system installation and management, guides customers through technology transitions, and provides an extensive range of other services. The company designs and customizes products and services to the requirements of the organizations and individuals purchasing them, and sells an extensive selection of peripheral hardware and computing software. 
+Nearly two-thirds of Dell's sales are to large corporations, government agencies and educational institutions. Dell also serves medium and small businesses and home-PC users. 
+Dell's Unique Direct Model:
+Dell's award-winning customer service, industry-leading growth and consistently strong financial performance differentiate the company from competitors for the following reasons: 
+Price for Performance -- With the industry's most efficient procurement, manufacturing and distribution process, Dell offers its customers powerful, richly configured systems at competitive prices. 
+Customization -- Every Dell system is built to order. Customers get exactly what they want. 
+Reliability, Service and Support -- Dell uses knowledge gained from direct customer contact before and after the sale to provide award-winning reliability and tailored customer service. 
+Latest Technology -- Dell introduces the latest relevant technology much more quickly than companies with slow-moving indirect distribution channels. Dell turns over inventory every six days on average, keeping related costs low. 
+Superior Shareholder Value -- During the last four quarters, the value of Dell common stock nearly doubled. From 1996 through 1998, Dell was the top-performing stock among the Standard & Poor's 500. 
+Internet Leadership
+Sales via Dell’s Web site surpassed $18 million per day during early 1999, accounting for 30 percent of overall revenue. The company's application of the Internet to other parts of the business --including procurement, customer support and relationship management -- is approaching the same 30-percent rate. The company's Web received 25 million visits at more than 50 country-specific sites last quarter. 
+Timeline:
+1984 Michael Dell founds Dell Computer Corporation
+1985 Company introduces the first PC of its own design: the Turbo, featuring Intel® 8088 processor running at eight megahertz
+1987 Dell is first PC company to offer next-day, on-site product service International expansion begins with opening of subsidiary in United Kingdom
+1988 To better meet unique customer needs, Dell begins to organize business around distinct customer segments Dell conducts initial public offering of company stock, 3.5 million shares at $8.50 each
+1990 Manufacturing center in Limerick, Ireland, opened to serve European, Middle Eastern and African markets
+1991 Company introduces its first notebook PC
+1992 Dell included for first time among Fortune 500 roster of world's largest companies
+1993 Dell joins ranks of the top-five PC makers worldwide Subsidiaries in Australia and Japan are company's first entries into Asia-Pacific region
+1995 Original $8.50 shares of Dell stock worth $100 on presplit basis 
+1996 Asia-Pacific manufacturing center in Penang, Malaysia, opened Customers begin buying Dell computers via Internet at www.dell.com Dell begins major push into network-server market Company added to Standard & Poor's 500 stock index
+1997 Company sales via Internet reach $1 million per day Dell ships its 10-millionth computer system Per-share value of common stock reaches $1,000 on presplit basis Dell introduces its first workstation systems
+1998 Company expands manufacturing facilities in the Americas and Europe, and opens production and customer center in Xiamen, China Dell introduces PowerVault storage products 
+1999 Dell opens www.gigabuys.com, an online computer-related superstore Sales via Internet exceed $18 million per day
+Industry Outlook
+While the personal-computing market has expanded dramatically since the 1970s, Dell believes that the industry's best days and its own are yet to come, for two broad reasons. 
+First, the stream of software and hardware innovation from companies such as Microsoft Corp. and Intel Corp. is rapid and robust, and is sharply increasing system performance and reducing the relative cost of computing. For example, in February 1982, Intel introduced its 286 chip, which was capable of processing 2.66 million instructions per second, or MIPS, at a clock speed of 12 million cycles per second, or megahertz. Today's Intel Pentium II processors are capable of considerably more than 600 MIPS at 450 megahertz, and the sharp upward development trend is expected to continue. 
+Second, while computer performance is going up, the relative cost of computing computer prices per MIPS has steadily declined, encouraging new computer users and more rapid PC replacement. Customers, in turn, are using those savings to buy even more powerful, more richly configured systems. As processor transitions and expected cost reductions continue, many industry analysts foresee worldwide industry volume growth at a compound annual rate of 15 to 20 percent annually over the next three years. 
+Meanwhile, the Internet is becoming more integrated into daily life: businesses rely on the Internet for commerce and real-time information exchange; customers go online to shop, bank and conduct personal correspondence; and students from grade schools through college use the Internet as an educational tool. From servers that power the Internet connection, to desktops and notebooks that efficiently and effectively provide the interface, to workstations used to develop digital content, the ability to provide products and services that enable Internet access and enhance the online experience will be vital for companies in the computer systems industry. 
+Development of the Direct Model
+Dell is continuously refining its direct approach to manufacturing, selling and servicing personal-computing systems. The company is committed to extending the advantages inherent in what is already the industry's most efficient business model. Current Dell initiatives include moving even greater volumes of product sales, service and support to the Internet; using the Internet to improve the efficiency of Dell's procurement, manufacturing and distribution process; and further expanding an already broad range of value-added services. 
+By taking its direct business model and its associated customer experience to even higher levels, through the Internet and value-added services, Dell intends to continue to grow its business at a multiple of the high-growth rate anticipated for the computer-systems industry as a whole. Dell still has significant opportunity for expansion in all parts of the world, especially in markets outside of the U.S.; in all customer segments; and in all product categories, ranging from home PCs to enterprise products, such as network servers and workstations.
+Mission Statement: 
+Dell's mission is to be the most successful computer company in the world at delivering the best customer experience in markets we serve. In doing so, Dell will meet customer expectations of: 
+· Highest quality 
+· Leading technology 
+· Competitive pricing 
+· Individual and company accountability 
+· Best-in-class service and support 
+· Flexible customization capability 
+· Superior corporate citizenship 
+· Financial stability 
+Objectives: 
+· To achieve market share of 14% by year 2002 worldwide.
+· Continue expansion of server and storage products.
+· Continue to maintain low costs – decrease each year by 1%.
+· Establish global brand recognition.
+SWOT Analysis:
+Strengths
+· No inventory buildup
+· Industry leading growth
+· Cost efficiency
+· Direct to customer business model – latest technology
+· Customization
+· Internet sales leadership - $5M worth of products everyday
+Weaknesses
+· No proprietary technology
+· High dependency on component suppliers
+Opportunities
+· Network-internet, intranet and extranet
+· Strong potential market in Europe, China and India
+· Low costs and advanced technology
+· Growth in business, education and government markets
+Threats
+· Competition (price and market share)
+· Currency fluctuation in countries outside the US
+· Political instability
+· Tariff trade barriers
+Marketing Strategies
+· Major customers: large corporations, government agencies and medical and educational institutions to small business and individuals.
+· Strategy: Multinational corporate customers
+<br><br>
+Words: 1356

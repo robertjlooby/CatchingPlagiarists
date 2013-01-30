@@ -1,0 +1,105 @@
+
+Proposed Study to Determine the Effects of Heat on Immediate Recall of Videotaped Lecture in College Students, Age 18 - 25
+Dana Serrata
+The University of Texas at Brownsville and Texas Southmost College
+PSYC 3301.01
+December 3, 1996
+Dr. D. Freeberg
+Proposed Study to Determine the Effects of Heat on Immediate Recall of Videotaped Lecture in College Students, Age 18 - 25
+Researchers have studied many aspects of temperature effects on human perception and cognition. Thermal stress, in the form of extreme heat, has been studied by examining the human response under this environmental condition (Hancock, 1986). In this way, researchers hope to gain a better understanding of how the human body and mind react to adverse environmental conditions and adapt to those circumstances or surroundings (Bell, 1981). Many studies of this type have focused on thermal stress and human performance in the work environment (Enander & Hygge, 1990; Bonnet, 1990; Meese, et al. 1984). Bonnet (1990) suggests that an elevated ambient temperature increases the stress of work. Researchers seem to agree that the core temperature of the body is closely tied to the perception of uncomfortable heat (or cold) (Bell, 1981; Bonnet, 1990; Enander & Hygge, 1990; Meese, et al. 1984; Hancock, 1986). Bell (1981) states that the core temperature of the body is 98.6° F, and that an elevation of this temperature above 113°F leads to death. The American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE) endorses a range of temperatures that may be considered ambient and provide thermal comfort for most people. This ambient range is from 76°F to 80°F with an average relative humidity of 45% (Rohles, 1973).
+Some researchers have manipulated the ambient temperature to induce heat stress while testing subjects on cognitive and mental tasks. Pepler and Warner (1968) had undergraduate students study a self-teaching programmed text during exposure to six different temperature levels ranging from 16.7 to 33.3°C at 45% relative humidity. These students worked at a faster rate at high and low temperatures, with a higher rate of error. Wyon (1979), who has studied the effects of heat stress on mental performance in children, found that maximum performance on a word memory test was reached at 26°C.
+Bell and Greene (1982) have discussed three theoretical approaches which have been applied to interpret the effects of thermal stress on performance of which attention is one; along with body temperature and arousal. In their theory regarding attention, Bell and Greene state that information overload occurs when the demand for attention exceeds the limited information processing capacity available. This situation would be more likely to occur when an environmental stressor is present. Therefore, according to their theory, task performance changes under thermal stress and promotes adaptability in the cognitive strategies used to complete the task (Cohen, et al. 1986). 
+Unfortunately, little research has been conducted on the effects of thermal stress on cognitive and mental tasks. Most research has focused on vigilance and manual tasks which reflects the practical purpose of these studies, which have been geared toward the military and certain types of work environments (Enander & Hygge, 1990). However, the research which has been conducted suggests an adverse effect on cognitive functions by thermal stress.
+This study proposes that the thermal heat stress encountered in a classroom will negatively effect the immediate recall ability of undergraduate college students. A post-test on content recall of a videotaped lecture will be given to two groups, the experimental group will be assigned to the hot room and encounter the thermal stress, while the control group will be in an ambient temperature classroom. Low scores on the post-test for the thermally stressed group will indicate a possible effect of heat on recall ability.
+Method
+Participants
+Participants will be 60 volunteers, 30 male and 30 female, undergraduate students from introductory psychology courses at The University of Texas at Brownsville and Texas Southmost College. Participants will range in age from 18 to 25 years old, must be fluent in the English language (written and spoken), must have normal or corrected eyesight and hearing, and no chronic physical problems.
+Participants will be randomly assigned to either the ambient temperature or hot temperature classroom, with 15 males and 15 females assigned to each condition.
+Materials
+Two college classrooms will be used in the same building. Each classroom will not have windows and will be the same dimensions. Each classroom will contain 30 desks and 1 TV/VCR mounted in the middle of the wall in the front of the room. Two sharpened pencils will be placed on each desk. One classroom will have the thermostat set to 85°F with a lock so that it may not be manipulated during the experiment. The other classroom will have the thermostat set to 72°F, also with a lock to prevent manipulation during the experiment.
+Two copies of a 30 minute videotape of an instructor giving an introductory psychology lecture will be used (1 for each classroom).
+A post-test will be administered (see Appendix). A post-test will be placed in a sealed envelope for each participant with written instructions on the outside to open after viewing the video. One envelope will be placed on each desk.
+Procedure
+Participants will be told that they are a test group for a new type of lecturing method, via videotape, to determine if as much information is retained as with an instructor teaching in person to the class. Participants are asked not to speak to each other during the experiment. Participants are allowed to enter their assigned classroom at one time and choose a seat. No jackets or outerwear is permitted in the classrooms.
+The videotape is started at the same time in each classroom via remote control. After the 30 minute tape is viewed, participants will open the sealed envelopes containing the post-test and proceed to take the post-test. The post-test will ask 10 relevant, multiple choice questions regarding only the content of the videotape. Instructions on the post-test will ask the participants to replace the test in the envelope and leave it on the desk when completed and to sit quietly until excused.
+Twenty minutes after the videotape has ended an experimenter will enter each room and debrief the participants about the true nature of the study taking no more than 5 minutes.
+Two assistants, unaware of the true purpose of the study, will score each test to maintain reliability of scores.
+Proposed Results
+The mean number of correct answers for participants in each condition will be calculated and the standard deviation computed.
+A one tailed independent samples t-test will be performed and the relationship between classroom temperature conditions and recall (as a function of scores on the post-test) will be plotted using a linear graph.
+The researcher predicts that the rate of recall will be less for the participants in the thermally stressed (hot) classroom than for those in the ambient temperature classroom. This study proposes that this will provide evidence that heat does have an adverse effect upon recall.
+<br><br><b>Bibliography</b><br><br>
+Bell, P.A. (1981). Physiological, comfort, performance, and social effects of heat stress. Journal of Social Issues, 37, 71-94.
+Bell, P.A. & Greene, T.C. (1982). Thermal stress: Physiological, comfort, performance, and social effects of hot and cold environments. In Evans, G. (Ed.), Environmental Stress (pp. 75-104). Cambridge: Cambridge University Press. 
+Bonnet, M.H. (1990). Dealing with shift work: Physical fitness, temperature, and napping. Work and Stress, 4, 261-274.
+Cohen, S., Evans, G.W., Stokols, D., Krantz, D.S. (1986). Behavior, health and environmental stress. New York: Plenum Press.
+Enander, A.E. & Hygge, S. (1990). Thermal stress and human performance. Scandinavian Journal of Work and Environmental Health, 16, 44-50.
+Hancock, P.A. (1986). Sustained attention under thermal stress. Psychological Bulletin, 99, 263-281.
+Meese, G.B., Lewis, M.I., Wyon, D.P., Kok, R. (1984). A laboratory study of the effects of moderate thermal stress on the performance of factory workers. Ergonomics, 27, 19-43.
+Pepler, R.D. & Warner, R.E. (1968). Temperature and learning: An experimental study. ASHRAE Transactions, 74, 211-219.
+Rohles, F.H. (1973). The revised modal comfort envelope. ASHRAE Transactions, 79, 52-59.
+Wyon, D.P., Andersen, I., Lundqvist, G.R. (1979). The effects of moderate heat stress on mental performance. Scandinavian Journal of Work and Environmental Health, 5, 352-361.
+Appendix
+Post-test for videotaped lecture
+Instructions: Please circle the one best answer for each question using only the information presented in the videotape you have just viewed. After completing the test please return it to the envelope and leave the envelope on your desk. Sit quietly and wait for further instructions. You have 15 minutes to complete this test.
+1. The scientific study of mental processes of perception, memory and information processing is called:
+a. Cognitive psychology
+b. Developmental psychology
+c. Experimental psychology
+d. Neuro physics
+a. B.F. Skinner
+b. Sigmund Freud
+c. John Watson
+d. Clara Barton
+3. The preferred method, according to the video, for studying problems in psychology is the:
+a. survey method
+b. test method
+c. case histories
+d. experimental method
+4. Psychology is considered one of the ________________ sciences.
+a. behavioral
+b. physical
+c. biological
+d. natural
+5. In an experimental study there are _______ variables.
+a. 3
+b. 5
+c. 2
+d. 9
+6. The independent variable is the one that:
+a. is used on the control group.
+b. is systematically manipulated.
+c. effected by another variable.
+d. none of the above.
+7. The phenomenological approach focuses on:
+a. objective experience
+b. subjective experience
+c. instincts
+d. scientific data
+8. Freud believed that each of us are born with:
+a. innate instincts
+b. past life experiences
+c. a guardian angel
+d. learned experiences
+a. Sigmund Freud
+b. B.F. Skinner
+c. Ivan Pavlov
+d. Jean Piaget
+10. The Neurobiological approach to psychology studies:
+a. the brain and nervous system's relation to behavior.
+b. the learning processes.
+c. cognition
+d. psychoanalysis
+<br><br><b>Bibliography</b><br><br>
+Bell, P.A. (1981). Physiological, comfort, performance, and social effects of heat stress. Journal of Social Issues, 37, 71-94.
+Bell, P.A. & Greene, T.C. (1982). Thermal stress: Physiological, comfort, performance, and social effects of hot and cold environments. In Evans, G. (Ed.), Environmental Stress (pp. 75-104). Cambridge: Cambridge University Press. 
+Bonnet, M.H. (1990). Dealing with shift work: Physical fitness, temperature, and napping. Work and Stress, 4, 261-274.
+Cohen, S., Evans, G.W., Stokols, D., Krantz, D.S. (1986). Behavior, health and environmental stress. New York: Plenum Press.
+Enander, A.E. & Hygge, S. (1990). Thermal stress and human performance. Scandinavian Journal of Work and Environmental Health, 16, 44-50.
+Hancock, P.A. (1986). Sustained attention under thermal stress. Psychological Bulletin, 99, 263-281.
+Meese, G.B., Lewis, M.I., Wyon, D.P., Kok, R. (1984). A laboratory study of the effects of moderate thermal stress on the performance of factory workers. Ergonomics, 27, 19-43.
+Pepler, R.D. & Warner, R.E. (1968). Temperature and learning: An experimental study. ASHRAE Transactions, 74, 211-219.
+Rohles, F.H. (1973). The revised modal comfort envelope. ASHRAE Transactions, 79, 52-59.
+Wyon, D.P., Andersen, I., Lundqvist, G.R. (1979). The effects of moderate heat stress on mental performance. Scandinavian Journal of Work and Environmental Health, 5, 352-361.
+<br><br>
+Words: 1641

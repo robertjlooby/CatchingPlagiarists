@@ -1,0 +1,20 @@
+
+MIS Development
+The term Management Information Systems (MIS) has come to refer to a wide range of applications of computers to data processing and analysis problems in the private and public sectors. The pace of developments in computing in general, and MIS in particular, is breathtaking. Traditional concepts of how computers can and should be integrated into businesses are being challenged by worldwide telecommunications and transmission of sound, graphics, and video alongside of text. 
+Virtually all successful businesses use computers extensively. If you don't like computers, and want to have a career in business that involves little use of them—think again. You don't have to like them, but you will have to deal with them extensively. This is a fact of life along with the hole in the ozone, Oklahoma City, TWA 800, AIDS, and The Real World on MTV (now in its fifth season!). Computers can have a profound impact on the way that power is distributed in society. Those who ignore computers are apt to be left out of important decisions. You may even become the person in your firm who has responsibility for your firm's use of information technology. 
+Nevertheless, many people have little understanding of what computers are and what they can do. There is a desperate need in our society for liberally educated people who are able to balance the enormous possibilities of computing with its potentially harmful consequences. In the business world, there has been a gap between those who are computer smart and those who speak the language of business. You need to know enough about computers to be able to: 
+understand how computers support decision making and how they can be used to obtain strategic advantages; 
+understand the challenges posed by the rise of the Internet; 
+understand how the computer works in order to have a feel for the computer's limitations; 
+understand how data is stored and managed; 
+understand how to store and retrieve data yourself; 
+understand the different types of computer systems and when one type or another is appropriate; 
+understand how the overall parts of an MIS system work together and what some of the functions that they accomplish are; 
+understand how to state computer system requirements and understand how computer systems are built; 
+understand how computing is managed in the corporate environment; 
+understand some of the social issues which computers raise. 
+Achieving these objectives will give you the tools you will need to function effectively in the business environment. 
+<br><br><b>Bibliography</b><br><br>
+www.gorgetown.com
+<br><br>
+Words: 410

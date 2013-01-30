@@ -1,0 +1,96 @@
+
+MANAGEMENT ACCOUNTING ESSAY 1998/99
+The development of a strategic plan is essential to the achievement of organisational goals. Discuss.
+The development of a strategic plan is an essential part of strategic management accounting. If carried out to its full credibility the organisation will achieve its goals. It is important to note that the strategic plan is set for long term planning, as much as 3-5 years.
+It has been established that a strategic plan requires the specification of objectives distinguished between three key elements, forming a hierarchy: the mission of an organisation, corporate objectives and unit objectives. These objectives are the first stage of the strategic plan, before the organisation has to ask, and answer, three simple but vital questions;
+1) Where are we now?
+2) Where do we want to be? (long term)
+3) How are we going to get there?
+This is where we bring analysis such as SWOT analysis, the Boston matrix, the value chain and the Ansoff matrix into the plan.
+Corporate objectives relate to the organisation as a whole. They are expressed in financial terms, such as desired profit or sales levels, return on capital employed (ROCE), rates of growth or market share, and are normally measurable in some way. Formulated by members of the board, or directors to be handed down to senior management. United Biscuits corporate objectives in their annual report of 1985 were;
+'The most important objective remains the achievement of a minimum return of 20% on average capital employees, with a target return of 25%'.2
+Unit objectives relate to the specific objectives of individual units within the organisation, such as a division or one company within a holding company. The unit objectives for costain group plc in their annual report of 1986 were;
+'In the UK costain Homes is budgeted to sell 2'500 homes in 1987, - a figure that will put it among the top ten house builders'.3
+Before the corporate and unit objectives are incorporated one must start with the mission, and the basic concepts which involve vision statement, mission statement, goals and objectives. The first thing is to establish the long-term strategic aims of the organisation, otherwise known as corporate planning. A vision statement would be drawn up first and is simply a vague sentence expressing the positive effect it will have on society and is often used to say how the 'world will become a better place due to the existence of the proposal(s). This is often linked with the mission statement, and some companies may even omit the vision and focus only on the mission. 
+This emphasis more on the specific role that the organisation plans. It describes in very general terms the broad purpose and reason for its existence, the nature of the business(es) it is in, and the customers it seeks to serve and satisfy over the long run. The mission statement for international company 'Virgin' is very simple, very brief but informative as to what they wanted to put across, and is simply;
+'The directors aim to develop virgin into the leading British international media and entertainment group'.4
+Equally important are the goals and objectives. Firstly the organisational goals, the aims that the company strives to incorporate and achieve. These are a more detailed breakdown of what the mission states. They will be defined for different groups of shareholders. As one would expect, organisational goals are established for shorter time frames and are of unquantified sources. Goals can be a little ambiguous, they can be expressed in simple terms, for example, to make a profit, or in a wider area, to increase productivity. Therefore such goals can be taken for granted and so tell us little about the emphasis placed on the various activities of the organisation in meeting those goals. On the other hand one can say how vitally important they are. They provide a basis for planning and management control, guidelines for decision making and justification for the actions taken. The goals that the company set out in their report will be different to that received by the individuals, groups or departments of that same company. The goals will help to develop commitment of these people and so focuses attention on purposeful behaviour providing a basis for motivation and rewards.
+Fig 1:
+FORMAL GOALS 
+Personal goals of managers
+INFORMAL Perceived goals of officially stated
+GOALS the organisation organisation goals
+Personal goals of other members
+of the organisation
+the reason and purpose
+of the organisation
+Figure 1 shows the different types of informal goals that lead to the overall formal goals of the organisation.
+Inter-linked with the organisational goals are the objectives. These can be interpreted as being the same as goals, but they do differ. The goals are the basis for the objectives and are quantified roles of the organisation. They set out more specifically the goals, the aims to be achieved and the desired end-results. As with the goals, the objectives too will be broken down into different sections within the company. The corporate objectives also need to be broken down into compatible and functional objectives, so as all departments can contribute their part in maintaining the overall specifications.
+Large companies would have to subdivide the organisation as a whole to make there corporate mission more appropriate. This can be achieved by splitting into functional areas or geographical areas, where the managers are made responsible for all of the functions carried out within their region. The most logical and relevant divisions for strategic planning purposes are called 'strategic planning units' - (Sub's).
+Sub's are normally defined as being divisions of an organisation where the managers have control over their own resources and discretion over the deployment of these resources within specified boundaries, - their own mission statement and set of goals. The role of corporate strategic planning in this case is to define the overall corporate values and guiding business principles and to set out the limits of the business, which can be undertaken by the subsidiary units. Here we recall the three simple but vital questions mentioned earlier; Where are we now? Where do we want to be? How do we get there? To help us we start to incorporate analysis and other useful techniques.
+We start with the SWOT analysis, otherwise termed 'WOTS UP', which focuses on the strengths, weaknesses, opportunities and threats of the organisation. By taking into account the constraints and opportunities, one can take a look at previous performance, competitors and the rest of the industry, in relation to the holders own company, and then of course one can do SWOT analysis;
+Fig 2:
+INTERNAL STRENGTHS WEAKNESSES
+EXTERNAL OPPURTUNITY THREATS
+The strengths and weaknesses refer to the internal aspects of the organisation, comparing to the competition and the market place, - what the company is relatively good and bad at doing. The opportunity and threats relate to the external environment factors and the inter-relationship they have.
+Strengths are those positive aspects or competencies, which provide a significant, market advantage, where the organisation can build upon. This is simply to tell the present market position, size, structure, managerial expertise, physical or financial resources, staffing and skill, image and reputation and lastly the situation (for channel ports and motorways).
+Weaknesses are obviously the negative aspects in the present competencies or resources of the organisation. Its image or reputation limiting its effectiveness which need to be corrected to minimise the effects. Certain examples of weaknesses could be operating within a particular narrow market, limited accommodation or outdated equipment, high proportion of fixed costs, high level of customer complaints, poor marketing skills or a shortage of key managerial staff.
+Opportunities are favourable conditions and usually arise from the nature of changes in the external environment. Although the organisation needs to be responsive to the changes, it also has to be sensitive to the problems of business strategy. The changes being, new markets, technology advances, improved economic factors or failure of competitors. The opportunities offer the organisation the potential to develop existing products, facilities or services.
+Threats, the last in the SWOT analysis matrix. These are the opposite to opportunities, referring to unfavourable situations arising from external environment developments that are likely to endanger the operations and effectiveness of the organisation. One would include changes in legislation, the introduction of a radically new product by competitors, changing social conditions and the actions of pressure groups. The organisation has to be responsive to changes that have already occurred, and therefore plan for anticipated significant changes in the environment, being well prepared for such demands.
+One has to consider four fundamental issues that are addressed with SWOT analysis. Firstly, financial performance - allowing one to asses the current performance. Secondly, competitiveness - here it is vital to consider the non-financial factors which allow a company to resist competitive pressure, applying it successfully to others. Market input is next, and lastly external environment - these last two aim to highlight external factors, for example, potential constraints, via analysis of the external environment. This must take into account all relevant external environment factors.
+Once the organisation has completed the SWOT analysis, the question of where they to be in 3-5 years arises. To help with answering this the 'Boston Consulting Group' (BCG) portfolio matrix will be introduced. This matrix identifies greater strengths and weaknesses by producing, again, four different types of businesses (or products), Dogs, Question marks (or Wild cats), Stars and Cash cows, and is shown in the following Boston Square;
+Fig 3:
+Market growth and cash input High STAR ?
+Low FUNDS
+CASH
+COW DOG
+High Low
+Market share
+and cash generation
+The Boston square is based on a product life cycle and the coincidence of high market share with high profitability;
+Fig 4: Product Life Cycle:
+question star cash dog
+mark cow 
+The product life cycle assumes that the cost a unit drops as the volume of units produced increases as a result of improvements in the production process and economies of scale. A typical product developed from concept to market acceptance, through a period of high demand and eventual market decline. Of course not all products follow the same cycle, some never reach the market, and others have a different time scale at each stage of the cycle. Converting the four stages of the product into matrix form produces the above Boston square, giving four different characteristics, specifically chosen.
+The stars are those products with the best profit and potential, requiring hefty investment to become established products, which generate cash with minimum investment. The question marks, otherwise known as wild cats, are those products requiring a high investment for little return. Market growth is high whilst market share is low, initially funded by income from cash cows. The dogs are those obsolescent products which no longer merit further investment as the market share has been eroded by new developments or fashions.
+The whole idea of the Boston square model is to highlight that the strategic management of a product, or even a whole industry, needs to focus beyond internal factors to consider market pressures. It also stresses the need to re-invest income to provide long term sources of revenue. It is essential that four strategies emerge from this matrix. Firstly, to 'build' - increase market share, turning question marks into stars. Secondly, 'hold' - preserve market share, ensuring cash cows remain cash cows. Thirdly, 'harvest'- increase short-term cash flow by using cash cows to fund other business products. Lastly to 'divest' - eliminate those businesses whose use of resources is inefficient.
+It is also possible to use a different type of analysis, namely 'Porters' five-part model, of the existing competitive position. The five parts are established as 1) buyer power, 2) supplier power, 3) entry opportunity, 4) substitute possibilities, 5) competitor rivalry. These five factors determine how attractive an area of business will be to a company.
+Fig 5:
+Porters five factors affecting current level of competition can also be successfully related to his later technique - the value chain, which comes under our third question - How are we going to get there?
+The value chain looks at the total value added by the industry and by the particular organisation within that industry. The objective of the value chain analysis is to highlight the objectives which contribute most significantly to the total value added and to develop strategies to improve on, or defend the current share of that value added which is gained by the organisation.
+Fig 6: The value chain:
+Suppliers Organisation Customers
+Strategy and administration 
+Research
+and 
+development
+Design Production Marketing Distribution Customer
+service 
+According to this concept every firm is a collection of activities that are performed to design, produce, market, deliver and support its product.
+Another development by porter in 1980, is that 'competitive strategy splits successful strategies into three broad categories;
+Fig 7: Porters model of generic strategies:
+STRATEGIC ADVANTAGE
+Low cost position Uniqueness perceived
+by customers
+STRATEGIC
+TARGETS Industry
+niche Overall cost
+Leadership Differentiation
+Particular
+segment
+only Focus 
+To be successful across its chosen industry the organisation must either be able to supply the product from the lowest cost case in the industry or be able to command a higher price in the market by differentiating its product. It may not be positive to sustain either of these strategies across the whole industry and so it adopts its third strategic category by 'focusing' on particular segments of the industry where it can command a sustainable competitive advantage.
+The last part of the corporate planning is the Ansoff product/market matrix. Competitive strategies should be the most precise level of strategic planning since they relate to actions regarding products and markets which are to be implemented to achieve the most specific objectives of the organisation. The organisation here could acquire or develop new products to sell its existing customers, mapped out in the Ansoff matrix.
+Fig 8: Ansoff matrix:
+PRODUCTS
+Existing New
+MARKETS Existing Market
+Penetration strategy Product
+development
+strategy
+New Market development
+strategy Diversification
+The Ansoff matrix indicates the appropriate types of strategies which should be implemented depending on which box the organisation decides to select as its preferred method of growth. The fourth alternative that this matrix suggests is new products for new customers, otherwise described as a diversification strategy or questionable strategy, because it doesn't build on any obvious existing competitive advantage of the business. The other three strategies are examined by their relevant strengths and weaknesses.
+From all of the analysis shown, and followed with the full capabilities of management in achieving what was set out, one would be able to achieve the original organisation goals. It is possible to see that the development of such a strategic plan, through corporate planning, is a lenghty but well worthwhile for the company. We should note that strategic planning and strategic management accounting has become a vital part of a companies future.
+<br><br>
+Words: 2479

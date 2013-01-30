@@ -1,0 +1,29 @@
+
+Diane Woodward
+10th September 1999
+Critically consider whether evidence justifies
+a distinction between STM and LTM
+Memory is a working process that enables us to learn and benefit from past experience. There are three stages of process, registration, storage and retrieval. Some Psychologists have undertaken research to show there is a distinction between STM and LTM.
+Atkinson and Shiffrin introduced the Multi Store Model that supports the fact that the STM and the LTM are different. The LTM is a permanent store while the STM is only temporary. 
+The Multi Store Model proposes that information must pass through the sensory store and the short term store before it can be transferred into the long term store and become part of a long term memory. Atkinson and Shiffrin propose to transfer information form the STm to the LTM rehearsal must be undertaken.
+The evidence that supports the Multi Store Model includes two component tasks, coding and braindamaged patients. Two component tasks involves asking subjects to remember a list of words and asking them to repeat them using free recall. In conclusion to the experiment it showed that subjects recall items form the end of the list first and get more of these right, this is known as the regency effect which is connected to recall from the STM. The experiment also showed that items form the start of the list are recalled quite well but not as well as those at the end of this list. This is known as the Primacy effect which is connected to recall from the LTM. However the experiment showed that the words in the middle of the list were those that the subjects remembered least of.
+Many Psychologists own experiments and theories support the Atkinson and Shiffrin’s idea of rehearsing, including Brown and Peterson who carried out an experiment giving subjects sets of three consonants to remember. They found that if the subjects were allowed to rehearse, the experiment was easy, however if there was no rehearsal the majority of the subjects forgot after a none second delay and nearly all subjects forgot after an eighteen second delay. In conclusion to this experiment Brown and Peterson founf that there is a rapid loss of information if rehearsal is prevented. This supports the theory that there is a STM.
+Craik and Watkins carried out a study to show that retention over long periods of time is unrealted to duration to the STM or the number of rehearsals meaning retention is not related to rehearsal.
+Atkinson and Shiffrin proposed that STM and LTM code information in different ways, therefore they must be different memory stores. The STM stores information acoustically, we know this because people make acoustic errors, however the LTM stores information semantically, because people make semantic errors in LTM tests. Conrad (1964) and Baddley (1966) have carried out research that supports the theory that the STM and LTM uses different coding.
+The research carroed out dealing with brain damaged patients is the third type of evidence that supports the Multi Store Model. Psychologists proposed that if the STM and LTM are different then brain damage may effect one memory without causing damage to the other, this is supported by the study of Amnesiacs. It has been found that some amnesiacs keep a LTM for events beofre a brain injury and keep STM for events that happen after the brain injury, however they have no ability to transfer information form the STM to the LTM.
+Retrograde Amnesia is the imparity of the memory of events beofre the damage, with the STM not being disrupted, this shows that brain damage effects STM and not LTM, this is evidence that the two memory stores are separate.
+The evaluation of the model has brought about a few questions and doubts including the fact that we know that the model is based on experiments where subjects know their memory is being tested. We actually use our memory for information we are not expecting to use. When a subject is part of an experiment their performance may be affected because they know they are under observation, this questions whether the results are truly accurate. Also the experiments are questioned because they are not ‘life like’ and this means that subjects may react to them differently meaning it is hard to generalise. Researchers have alos questioned the importnace of rehearsal finding that more rehearsal does not automatically mean better recall.
+There are alternative models to the Multi Store Model, they do not totally disagree with the model but think that it is too simplistic for such an complex study.
+The LTM supports, but takes the idea of a distiction a step further by making a distinction between LTM in itself as the following diagram explains:- 
+COHEN AND SQUIRE TULVING
+1980 1985
+Declarative memory Episodic memory
+‘knowing that’ its broken ‘persoanl events/ episodes’
+this down into 
+Semantic memory
+‘knowledge about the world’
+Proceduaral memory 
+‘knowing how’ 
+Procedual memory
+<br><br>
+Words: 825

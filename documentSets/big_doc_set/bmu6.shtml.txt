@@ -1,0 +1,82 @@
+
+General Comments about the Insurance Industry
+Insurance Companies generate revenues by selling insurance policies. These policies provide a known amount of revenue for an unknown amount of losses offsetting that revenue. This can make the matching principle difficult. Some of the potential losses can come years after the insurance policy was written and the premiums received. The liabilities for these future losses are estimated by actuaries and are subject to a certain amount of interpretation by management.
+The accounting for the premium revenues is reflected in written vs. earned premium. Various statutory requirements are based on written premium, which is the amount of premium booked in a given accounting period. Earned premium is generally used for recognizing revenues for financial reporting. As insurance policies are written on an annual basis or longer, the premiums (revenues) are spread over the duration of the policy period even if the potential liability exceeds the policy period. The future liability is estimated and booked against the earned premiums. Some costs, however are not matched against this revenue, primarily commissions paid to the insurance agent that sold the policy. This expense is fully recognized at the time the premium is booked.
+These effects can have both positive and negative implications. In an era of declining written premiums, revenue can actually increase and expenses should decrease because of the costs incurred at the time the policy was written. 
+Very few insurance companies in the United States actually make a profit by selling insurance. The profit is generally made from the investment income earned investing the premiums they receive now, but do not expect to pay out until some point in the future. 
+This paper examines the published financial information of Reliance Group Holdings and Travelers Property Casualty Corp for the fiscal year ending December 31, 1998 and the third quarter reports for the quarter ending September 30, 1999. The letters to the shareholders are examined as well as the financial statements and subsequent notes. An outline of the accounting principles employed by both companies is provided as well as some basic ratio analysis. 
+Reliance Group Holdings, Inc. 1998 Annual Report
+Letter to Shareholders from Saul Steinberg, Chairmen and CEO and Robert Steinberg, President and Chief Operating Officer.
+Operating income was up slightly over 1997. Net income was a record due to proceeds from sale of asset, Commonwealth Title.
+Reliance grew Shareholders Equity by $1.32 billion, highest it has ever been in the history of the company. This may not be significant accomplishment if the company had sustained steady operating and earnings growth over the long run.
+Reliance had 18% growth in property and casualty premiums, despite continued soft pricing environment and significant catastrophic losses as well as other weather related losses. Combined ratio for 1998 102.1. Combined ratio is a measure of premiums spent to cover losses and expenses. For every dollar in premium revenues, the company spent $1.02 in expenses and losses.
+Employee and management ownership aligns interests of employees with that of shareholders.
+The Steinberg's note a successful track record of putting innovative and specialized skills to work. In the third quarter of 1999 it will be noted that several of these innovations were not as profitable as they thought they were.
+Note disciplined underwriting approach.
+Reliance National
+Reliance Group Holdings largest profit center offering specialized property and casualty insurance and risk management services. They broke new ground in overseas expansion and e-commerce opportunities. These e-commerce opportunities are Cybercomp, a program to offer workmen's compensation insurance over the Internet.
+Reliance National's international sources generated 12% of the total premium in 1998, through offices in London, China and Argentina.
+Reliance Insurance
+This is considered a middle market company, writing insurance for small and mid size companies. The Steinbergs feel this is one of the few companies offering a full range of specialized products delivered locally. This means it is underwritten through local branch offices. Reliance National business is largely underwritten centrally, in their head office in New York.
+Reliance Reinsurance
+Reinsurance offers a method of limiting exposure for the generators of insurance policies. A reinsurer will take on a portion of a risk for a portion of the premium. Reliance Reinsurance got out of several less attractive lines of business and as they did not act soon enough as significant reserve adjustments will be made in the third quarter of 1999. Reliance Re grew premiums by offering reinsurance for crop losses. Despite a high level of Catastrophic losses in 1998 in this line, Reliance Re was able to lock in profit by offering reinsurance to other companies, actually reinsure the reinsurer.
+Reliance Surety
+Business grew over 20% in 1998 due in large part to the formation of Reliance Specialty division. In 1997 two competitors merged, when St.Paul purchased United States Fidelity and Guarantee USF&G). The management of USF&G was chosen to lead the combined surety operations. Reliance Surety hired 7 people in the senior management ranks of the former St. Paul surety operation and formed the Specialty division. These individuals were able to capitalize on their existing relationships and bring a substantial amount of profitable surety business over to Reliance.
+Viewed as one of Reliance Group's first specialization success stories. Increased profits as well through he use of technology in the high volume/low premium sector. Relaince Surety was quoted in the Wall Street Journal as being the crown jewel of Reliance Group Holdings (footnote)
+Personal Auto
+This is a new venture and grew very fast in 1998. There was a launch of Reliance Direct, an e-commerce venture to offer personal auto insurance over the Internet. This unit had revenue of $201m, with no mention of profit and loss. Two separate efforts in personal auto were included in these numbers and these efforts were subsequently merged.
+RGC Information Technologies
+This is a non-insurance related entity, offering computer software services. Started in response to Y2K concerns and revenue growth in 1998 was 29% to close to $250m. 
+Strong Financial Position
+The company had more capital and less leverage than at anytime in their history. They reduced debt to 35% of equity from 40% of equity, achieved primarily through the sale of their stake in Commonwealth title. Duffs and Phelps and Standard and Poor raised Reliance Group's senior debt ratings. (These ratings were short lived as they were downgraded in the third quarter of 1999).
+- Insider information. The management of Reliance Group was hoping that A.M. Best, a key insurance industry rating agency, would raise Reliance's rating from A- (excellent) to A (superior) in response to the 1998 results. This did not happen much to the disappointment of senior management. This rating increase has been a goal of Reliance Group for several years.
+Outlook
+Property and Casualty market will continue to be challenging but the management notes some signs of a hardening in the market. Reliance plans to continue to differentiate themselves through disciplined, selected, and sophisticated underwriting and offering outstanding service.
+Travelers Property Casualty Corp. 1998 Annual Report
+Letter to the Shareholders by Jay Fishman, President and Chief Executive Officer
+Revenues and earnings in 1998 achieved all time highs with operating earnings increasing 11% on revenue increase of 5%. This is before an adjustment for FAS 115 (I need to find out what this was).
+Strategy is to build Travelers as an efficient low cost provider.
+Commercial lines had an 11% increase in operating profits. Personal lines had sufficient price increases to invest in the capital necessary to grow aggressively.
+Strategies Applied
+- Create a culture that recognizes the importance of efficient, low cost provider of high quality products and services. Reduced operating expenses $300m since the company's inception in 1996.
+- Achieve earnings growth while maintaining balance sheet strength.
+- Reduction in exposure to areas with high catastrophic exposure.
+- Substantially resolve major portion of outstanding environmental Claims.
+(These claims are related to Asbestos and other environmental claims on policies written 20 + years ago. Policies written in last 20 years include and Environmental exclusion. At the time these policies were written, no person realized the long-term detrimental effects of what were, at the time, not known to be hazardous materials. Almost all old-line property and casualty companies have had to recognize their exposure to these types of claims.)
+-Successfully develop new distribution channels for personal lines products.
+Key Rating Upgrade
+In December of 1998, the A.M. Best Company upgrades Travelers to A+. A++ is the highest possible rating.
+As a result, Travelers is now well positioned to take advantage of what we see as significant changes taking place in today's Property and Casualty industry.
+Capitalizing on Market trends
+Personal lines agents are generally attempting to consolidate their writings to one or two companies within each agency. Due to favorable pricing, Travelers was able to invest in book transfers where an agent moves their entire book of business from another carrier to travelers. This helped to provide a 13.5% increase in revenue for personal lines to $3.5 billion. 
+Commercial lines revenue was flat despite 4-5% decreases in industry premium levels each year since 1996. Operating income increased 11% in 1998 due to lower catastrophic losses and improved operating expense ratios.
+Opportunities within Citigroup
+Citigroup owns travelers Insurance 84%. Management feels f=this creates exciting opportunities for Travelers with Citigroup's cross selling of complimentary products.
+Other Growth Opportunities
+Travelers formed and Alliance with Winterthur, a Swiss owned insurance company that allows Travelers to provide insurance in Europe, Asia and Latin America for their domestic commercial clients. 
+Key Differences
+Travelers is positioning themselves as a low cost provider while Reliance is trying to improve operations through innovation and creating market niches. No mention of the cost structure in the Reliance letter to the shareholders.
+Both companies had successful 1998, in actuality; the entire property and casualty industry faired pretty well in 1998 due in part tot the relatively low level of catastrophic losses. 
+-Insider information. One of the problems that were identified by Reliance management in 1999 was an expense problem at Reliance National and $50m in annualized cost savings were identified and implemented in the second and third quarter of 1999 at Reliance.
+Both companies mentioned the challenging property and casualty environment.
+Third Quarter of 1999 results- Travelers
+Earnings were solid despite height level of catastrophic losses, achieved due to lower expenses and Increased personal lines agents.
+Travelers experienced a slight increase in Combined ration from 102.5 in 1998 to 103 through the first three quarters of 1999.
+Third Quarter Results - Reliance
+The good news is the company is showing a $15m loss through for the third quarter of 1999. The bad news is that what is not included in that number is an adjustment to loss reserves in excess of $330m, on a pre tax basis that resulted in an after tax charge of close to $147.7m, taken in the second quarter of 1999. Further, during the third quarter A.M. Best placed Reliance Group Holdings under review with negative implications. 
+(As previously mentioned, Reliance's current Best rating is A-, any drop below that would have significant detrimental effects. A- is generally considered the minimum acceptable rating for insurance companies by most national insurance agencies and many commercial insurance buyers.)
+The pre tax reserve adjustment is a good showcase for the problems facing the auditors when auditing an insurance company. An insurance company collects premiums today to cover losses expected to happen at some point in the future. This future date could be next year or twenty years from now. During that time, state laws can change and common law can actually change the exposure of the insurance company from when they actually wrote the policy. Estimated losses are based on the best guess of the actuaries and management. Some industry experts believe the entire property and Casualty industry is under reserved by as much as 15%.
+The results even without that loss adjustment were not positive for Reliance. Saul Steinberg states in the third quarter press release that these results do not reflect the profitability of the core business. While the combined ratio in the third quarter was in excess of 110, without the run off business this would have been 102. Run off business is lines of business that Reliance has decided to get out of but it takes some time to eliminate the risks associated with this business.
+Another item clouding the financial condition of Reliance group is was the potential loss surrounding what is referred to as Unicover. Unicover was a program administered by Reliance National where Insurance policies were written on Reliance paper (issued by Reliance) and the risk was 100% reinsured. For this, Reliance National would receive substantial fees, without taking any risk. 
+Workman's compensation insurance has two basic components, the wage loss component and the health insurance benefits. The idea was to separate these two risks and sell them to separate re insurers. The Health portion of the risks were sold to Life and Health companies and it soon became apparent that these risks would have combined ratios far exceeding any ratio in which these companies could make a profit. Despite having legally binding re-insurance contracts, these insurers claimed they were mislead when they agreed to reinsure the risks and sought to void the reinsurance contracts. If they were successful, Reliance would be responsible for an estimated $1.1 billion in future claims. While Reliance's position is they have legally binding contracts with these re-insurers, they cannot afford the long legal battle that would subsequently erupt. 
+Having this cloud over the financial condition of the company influenced A.M. Best's review of the company. In the first quarter of 2000, Reliance settled the Unicover claim for approximately $100m. 
+-Inside information. According to sources we are not at liberty to disclose, in order to maintain the A- rating, Reliance Group has to raise enough capital to restore the balance sheet to the pre reserve adjustment strength. With Unicover and the poor results in the third quarter, that would mean they would have to raise about $400m. (Important to note here that Reliance has yet to suspend the quarterly dividend that costs approximately $35m per year and that the Steinberg family owns over 40% of the common stock). Reliance Group Holdings has delivered very poor.
+The fall out has been substantial. The entire management of Reliance National has been fired. Robert Steinberg was forced out as president and Chief Operating Officer and an outside president was brought in to run the company.
+- More Inside Information. These results potentially cost Saul Steinberg the company he bought in a leveraged buyout when he was 28 years old. Unfortunately for the shareholders, none of the 14 companies that review Reliance were apparently willing to take on the risk in Reliance National. In short, these potential suitors are not convinced that all the losses have been adequately reserved. As management significantly influences losses for reserves, if investors do not have faith in that management, they have no basis of support for the numbers produced by the accountants.
+Reliance Group announced on February 28, 2000 the sale of their one consistently profitable profit center, Reliance group holdings for $xxxxm.
+This sale will provide the company with the capital required to maintain the A- rating from the A.M. Best Company.
+<br><br><b>Bibliography</b><br><br>
+Travelers Property and Casualty Annual Report 1998
+Reliance Group Holdings Annual Report, 1998
+<br><br>
+Words: 2542
